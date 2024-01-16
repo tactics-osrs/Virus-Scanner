@@ -18,5 +18,4 @@ The Virus Scanner is a simple batch script designed to provide fast and full vir
 
 ## Note
 - Ensure that Windows Defender is installed and operational for the script to work effectively.
-
--This scrtipt will only work on Windows 11+.
+- This scrtipt will only work on Windows 11+.
