@@ -1,3 +1,11 @@
+:::
+Script Name: Virus Scanner
+Creator: Tactics
+Date Created: January, 15, 2024
+Version: [1.6]
+Written in: Batch
+:::
+
 @echo off
 echo Welcome to Tactics Virus Scan!
 
