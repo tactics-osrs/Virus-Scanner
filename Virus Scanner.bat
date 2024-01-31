@@ -1,10 +1,6 @@
-:::
-Script Name: Virus Scanner
-Creator: Tactics
-Date Created: January, 15, 2024
-Version: [1.6]
-Written in: Batch
-:::
+REM Script Name: Virus Scanner
+REM Date Written: January 15, 2024
+REM Written By: Tactics
 
 @echo off
 echo Welcome to Tactics Virus Scan!
