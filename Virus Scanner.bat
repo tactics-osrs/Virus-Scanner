@@ -39,6 +39,7 @@ echo Please select an option:
 echo [1] Fast Virus Scan
 echo [2] Full Virus Scan
 echo [3] Help
+set "userinput="
 set /p userinput="Enter your choice (1, 2, or 3) and press Enter: "
 if "%userinput%"=="1" (
     cd C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18* || goto error
