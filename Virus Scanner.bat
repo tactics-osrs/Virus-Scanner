@@ -2,7 +2,7 @@
 REM Script Name: Virus Scanner
 REM Date Written: January 15, 2024
 REM Written By: Tactics
-
+CLS
 echo %date% %time%
 
 
