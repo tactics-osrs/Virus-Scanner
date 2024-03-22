@@ -6,7 +6,7 @@ The Virus Scanner is a simple batch script designed to provide fast and full vir
 ## Features
 - Fast Virus Scan
 - Full Virus Scan
-- -Help menu
+- Help menu
 
 ## Requirements
 - Windows operating system
